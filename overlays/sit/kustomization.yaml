@@ -6,7 +6,7 @@ resources:
 
 images:
 - name: asia.gcr.io/poc-innovation-iot/duke-user-consumer-service
-  newTag: 4330f669
+  newTag: 6494c002
 
 configMapGenerator:
 - behavior: merge
