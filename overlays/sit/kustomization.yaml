@@ -6,7 +6,7 @@ resources:
 
 images:
 - name: asia.gcr.io/poc-innovation-iot/duke-user-consumer-service
-  newTag: dd66b022
+  newTag: b8f65408
 - name: asia.gcr.io/poc-innovation-iot/duke-user-producer-service
   newTag: 5325375d
 
